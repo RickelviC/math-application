@@ -46,6 +46,16 @@ public class MathApp {
 
         System.out.println(distance);
 
+        System.out.println("==========================================");
+
+        double absolute = -3.8;
+
+        System.out.println("The absolute of "+ absolute +" is "+ Math.abs(absolute));
+
+        System.out.println("==========================================");
+
+        System.out.println(Math.random());
+
 
 
 
